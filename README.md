@@ -1,6 +1,7 @@
 # Semaphore demo CI/CD pipeline using JavaScript (ReactJS/NodeJS)
 
-Example application and CI/CD pipeline showing how to run a JavaScript project which consists of ReactJS client and NodeJS server on Semaphore 2.0.
+Example application and CI/CD pipeline showing how to run a JavaScript project
+which consists of ReactJS client and NodeJS server on Semaphore 2.0.
 
 ## Local project setup
 
